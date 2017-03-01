@@ -7,3 +7,4 @@
         android:interpolator="@android:anim/accelerate_interpolator"/>
 
 </set>
+//Desert,Forest,Grassland,Rainforest,Snow
